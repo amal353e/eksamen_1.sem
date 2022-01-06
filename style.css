@@ -180,23 +180,23 @@ a {
   text-decoration: none;
   color: black;
 }
-/* ----------------------------------------- forside --------------------------------------------------- */
-.forside_html header {
+/* ----------------------------------------- index --------------------------------------------------- */
+.index_html header {
   background-color: white;
 }
-.forside_html .toggle_btn {
+.index_html .toggle_btn {
   border: none;
   background-color: white;
 }
-html .forside {
+html .index {
   background-color: #ffffff;
 }
 .logo img {
   width: 30%;
 }
 @media (max-width: 600px) {
-  .forside {
-    background-image: url(/billeder/splas_mobile3.png);
+  .index {
+    background-image: url(billeder/splas_mobile3.png);
     background-position: 52% -100%;
     background-repeat: no-repeat;
 
@@ -204,26 +204,26 @@ html .forside {
     height: 100vh;
   }
 
-  .forside h1 {
+  .index h1 {
     text-align: center;
     padding-top: 50%;
     font-size: 5.5rem;
   }
-  .forside_html footer {
+  .index footer {
     margin-top: -50%;
     padding-block: 12%;
     padding-inline: 2%;
   }
 }
-.forside_menu a {
+.index_menu a {
   text-decoration: none;
 }
 
 @media (min-width: 600px) {
-  .forside_html header {
+  .index_html header {
     display: none;
   }
-  .forside_menu ul {
+  .index_menu ul {
     display: flex;
     list-style: none;
     gap: 15%;
@@ -232,23 +232,23 @@ html .forside {
     color: black;
   }
 
-  html .forside {
+  html .index {
     background-color: #ffffff;
   }
-  .forside {
-    background-image: url(/billeder/splash_portfolio.png);
+  .index {
+    background-image: url(billeder/splash_portfolio.png);
     object-fit: cover;
     width: 100%;
     height: 105vh;
     background-position: 50% 50%;
     text-align: center;
   }
-  .forside h1 {
+  .index h1 {
     text-align: center;
     padding-top: 18%;
     font-size: 8rem;
   }
-  .forside_menu ul {
+  .index_menu ul {
     display: flex;
     list-style: none;
     gap: 15%;
@@ -256,7 +256,7 @@ html .forside {
     font-size: 2rem;
     color: black;
   }
-  .forside_html footer {
+  .index_html footer {
     display: none;
   }
 }
