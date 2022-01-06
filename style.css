@@ -209,9 +209,9 @@ html .index {
     padding-top: 50%;
     font-size: 5.5rem;
   }
-  .index footer {
+  .index_html footer {
     margin-top: -50%;
-    padding-block: 12%;
+    padding-block: 20%;
     padding-inline: 2%;
   }
 }
@@ -319,7 +319,7 @@ html .index {
 
 @media (min-width: 600px) {
   .tema_html {
-    background-image: url(/billeder/tema_baggrund.png);
+    background-image: url(billeder/tema_baggrund.png);
     object-fit: cover;
   }
   .tema #section_1 {
