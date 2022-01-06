@@ -262,7 +262,7 @@ html .index {
 }
 
 /* ----------------------------------------- tema --------------------------------------------------- */
-.tema #section_1 {
+.tema_html #section_1 {
   display: flex;
   flex-direction: column;
   gap: 20px;
