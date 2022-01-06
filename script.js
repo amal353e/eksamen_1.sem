@@ -27,9 +27,3 @@ function toggleMenu() {
 // Tilføj et klik-event til bm så den sætter toggleMenu funktionen igang
 btn.addEventListener("click", toggleMenu);
 //
-
-const col1 = document.querySelector("#col_1");
-
-function hover() {
-  col1.addEventListener("mouseHover", moveTo);
-}
