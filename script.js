@@ -24,6 +24,7 @@ function toggleMenu() {
     btn.classList.remove = "open";
   }
 }
+
 // Tilføj et klik-event til bm så den sætter toggleMenu funktionen igang
 btn.addEventListener("click", toggleMenu);
 //
