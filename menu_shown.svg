@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="36" viewBox="0 0 68 36">
+  <defs>
+    <clipPath id="clip-menu_shown">
+      <rect width="68" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="menu_shown" clip-path="url(#clip-menu_shown)">
+    <rect width="68" height="36" fill="#fff"/>
+    <rect id="Rectangle_396" data-name="Rectangle 396" width="36" height="4" transform="translate(14 7)"/>
+    <rect id="Rectangle_397" data-name="Rectangle 397" width="36" height="4" transform="translate(14 15)"/>
+    <rect id="Rectangle_398" data-name="Rectangle 398" width="36" height="4" transform="translate(14 23)"/>
+  </g>
+</svg>
