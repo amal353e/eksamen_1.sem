@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260" viewBox="0 0 260 260">
+  <defs>
+    <clipPath id="clip-favikon">
+      <rect width="260" height="260"/>
+    </clipPath>
+  </defs>
+  <g id="favikon" clip-path="url(#clip-favikon)">
+    <rect width="260" height="260" fill="#8cd9f3"/>
+    <text id="T" transform="translate(178 264)" fill="#f2958d" font-size="227" font-family="FjallaOne-Regular, Fjalla One"><tspan x="-47.994" y="0">T</tspan></text>
+    <text id="O" transform="translate(90 216)" fill="#414143" font-size="227" font-family="FjallaOne-Regular, Fjalla One"><tspan x="-57.858" y="0">O</tspan></text>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="135" height="23" transform="translate(-28 74)" fill="#f2958d"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="139" height="23" transform="translate(137 74)" fill="#f2958d"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="28" height="26" transform="translate(164 236)" fill="#f2958d"/>
+    <path id="Rectangle_1" data-name="Rectangle 1" d="M3,3V251H251V3H3M0,0H254V254H0Z" transform="translate(3 3)" fill="#fff"/>
+    <text id="T-2" data-name="T" transform="translate(178 264)" fill="#f2958d" font-size="227" font-family="FjallaOne-Regular, Fjalla One"><tspan x="-47.994" y="0">T</tspan></text>
+    <text id="O-2" data-name="O" transform="translate(90 216)" fill="#414143" font-size="227" font-family="FjallaOne-Regular, Fjalla One"><tspan x="-57.858" y="0">O</tspan></text>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="135" height="23" transform="translate(-28 74)" fill="#f2958d"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="139" height="23" transform="translate(137 74)" fill="#f2958d"/>
+    <path id="Rectangle_8" data-name="Rectangle 8" d="M3,3V251H251V3H3M0,0H254V254H0Z" transform="translate(3 3)" fill="#fff"/>
+  </g>
+</svg>
