@@ -661,6 +661,18 @@ html .index {
     margin-block: 2.5%;
     border: #edf4d0 5px solid;
   }
+  .web .web_link {
+    padding-block: 5%;
+    text-align: center;
+  }
+  .web .web_link a {
+    background-color: whitesmoke;
+    padding: 2%;
+    padding-inline: 10%;
+    text-align: center;
+    border-radius: 20px;
+    border: solid white;
+  }
 }
 
 @media (min-width: 600px) {
@@ -798,6 +810,18 @@ html .index {
   margin-block: 2.5%;
   border: #e8c9b6 5px solid;
 }
+.ux .ux_link {
+  padding-block: 5%;
+  text-align: center;
+}
+.ux .ux_link a {
+  background-color: whitesmoke;
+  padding: 2%;
+  padding-inline: 10%;
+  text-align: center;
+  border-radius: 20px;
+  border: solid white;
+}
 
 @media (min-width: 600px) {
   .ux #section_1 {
@@ -932,6 +956,21 @@ html .index {
   margin-block: 2.5%;
   border: #d7e5f5 5px solid;
 }
+.ani #section_1 .ani_link,
+.ani #section_2 .ani_link2 {
+  padding-top: 5%;
+  text-align: center;
+}
+.ani #section_1 .ani_link a,
+.ani #section_2 .ani_link2 a {
+  padding: 0;
+  background-color: whitesmoke;
+  padding: 1%;
+  padding-inline: 10%;
+  text-align: center;
+  border-radius: 20px;
+  border: solid white;
+}
 
 @media (min-width: 600px) {
   .ani h1 {
@@ -952,7 +991,7 @@ html .index {
   .ani #section_1 .box {
     background-color: #d7e5f5;
     grid-column: 1/5;
-    /* height: 100%; */
+    height: 100%;
     grid-row: 1;
     padding-block: 20%;
   }
@@ -962,6 +1001,7 @@ html .index {
     padding-right: 10%;
     grid-column: 1/4;
     grid-row: 1;
+    padding-block: 5%;
   }
 
   .ani #section_1 .wrapper img {
@@ -1003,21 +1043,7 @@ html .index {
     width: 90%;
     padding-block: 5%;
   }
-  .ani #section_1 .ani_link,
-  .ani #section_2 .ani_link2 {
-    padding-top: 5%;
-    text-align: center;
-  }
-  .ani #section_1 .ani_link a,
-  .ani #section_2 .ani_link2 a {
-    padding: 0;
-    background-color: whitesmoke;
-    padding: 1%;
-    padding-inline: 10%;
-    text-align: center;
-    border-radius: 20px;
-    border: solid white;
-  }
+
   .ani #section_3 {
     padding: 0%;
   }
@@ -1080,6 +1106,23 @@ html .index {
   margin-block: 2.5%;
   border: #f3a9b8 5px solid;
 }
+/* ----- knap ---- */
+
+.indhold .indhold_link,
+.indhold_link2 {
+  padding-block: 5%;
+  text-align: center;
+}
+.indhold .indhold_link a,
+.indhold .indhold_link2 a {
+  padding: 0;
+  background-color: whitesmoke;
+  padding: 1%;
+  padding-inline: 10%;
+  text-align: center;
+  border-radius: 20px;
+  border: solid white;
+}
 @media (min-width: 600px) {
   .indhold #section_1 {
     background-color: whitesmoke;
@@ -1116,22 +1159,6 @@ html .index {
     padding-bottom: 5%;
   }
 
-  /* ----- knap ---- */
-
-  .indhold .indhold_link,
-  .indhold_link2 {
-    padding-block: 5%;
-  }
-  .indhold .indhold_link a,
-  .indhold .indhold_link2 a {
-    padding: 0;
-    background-color: whitesmoke;
-    padding: 1%;
-    padding-inline: 10%;
-    text-align: center;
-    border-radius: 20px;
-    border: solid white;
-  }
   video {
     width: 120%;
     height: auto;
